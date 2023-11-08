@@ -5,4 +5,4 @@
 ![print-screen](screen.png)
 
 ![gif](gif.gif)
-# Deneme-BasiscProject-ReactNative
+# Deneme-BasicsProject-ReactNative
